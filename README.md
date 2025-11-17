@@ -12,7 +12,7 @@ Welcome to Max's GitHub! 🤗
 - **Samsung Software Academy for Youth (SSAfy) 12th Batch**  
   *Jul 2024 ~ Jun 2025*
 
-- **SoftBank Hackathon Participant**  
+- **SoftBank Hackathon 2025 Participant**  
   *Nov 2025 (1 week)*
 
 ---
